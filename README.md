@@ -1,0 +1,1 @@
+This is a project to code three problems using concurrent programming. The first problem simulates a golfing range, the second a dance mixer and the third the well known dining pholosopher's problem. The details are in the write up for each problem.
